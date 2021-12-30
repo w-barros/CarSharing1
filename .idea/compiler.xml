@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Car_Sharing1.Car_Sharing-task.main" target="11" />
+      <module name="Car_Sharing1.Topics-Collectors-ASCII_Art.main" target="11" />
+      <module name="Car_Sharing1.Topics-Collectors-Collectors_class.main" target="11" />
+      <module name="Car_Sharing1.Topics-Collectors-Data_structures.main" target="11" />
+      <module name="Car_Sharing1.Topics-Collectors-Determine_the_value.main" target="11" />
+      <module name="Car_Sharing1.Topics-Collectors-Existing_collectors.main" target="11" />
+      <module name="Car_Sharing1.Topics-Collectors-Set_average.main" target="11" />
+      <module name="Car_Sharing1.Topics-Collectors-Statements.main" target="11" />
+      <module name="Car_Sharing1.Topics-Collectors-Theory.main" target="11" />
+      <module name="Car_Sharing1.Topics-Collectors-Сollect_parameter.main" target="11" />
+      <module name="Car_Sharing1.Topics-Stream_pipelines-The_sum_of_odd_numbers.main" target="11" />
+      <module name="Car_Sharing1.Topics-Stream_pipelines-Theory.main" target="11" />
+      <module name="Car_Sharing1.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
